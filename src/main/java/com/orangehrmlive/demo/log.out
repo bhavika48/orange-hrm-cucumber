@@ -1,0 +1,6 @@
+2023-05-23 21:05:21 INFO  LoginPage :38 - Enter userName admin to userName field [[ChromeDriver: chrome on WINDOWS (fe27caa57d4582acff68f83732f84624)] -> name: username]
+2023-05-23 21:05:96 INFO  LoginPage :43 - Enter Password admin123 to password field [[ChromeDriver: chrome on WINDOWS (fe27caa57d4582acff68f83732f84624)] -> name: password]
+2023-05-23 21:05:164 INFO  LoginPage :48 - Clicking on Login Link [[ChromeDriver: chrome on WINDOWS (fe27caa57d4582acff68f83732f84624)] -> xpath: //button[normalize-space()='Login']]
+2023-05-23 21:05:194 INFO  DashBoardPage :37 - Clicking on Admin Button [[ChromeDriver: chrome on WINDOWS (fe27caa57d4582acff68f83732f84624)] -> xpath: //span[.='Admin']]
+2023-05-23 21:05:269 INFO  DashBoardPage :37 - Clicking on Admin Button [[ChromeDriver: chrome on WINDOWS (fe27caa57d4582acff68f83732f84624)] -> xpath: //span[.='Admin']]
+2023-05-23 21:05:28 INFO  AdminPage :83 - Clicking on  admin tab [[ChromeDriver: chrome on WINDOWS (fe27caa57d4582acff68f83732f84624)] -> xpath: //i[@class='oxd-icon bi-plus oxd-button-icon']]
